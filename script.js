@@ -27,8 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
   /* ---- typed role effect ---- */
   const roles = [
     "Développeur Data-IA",
-    // "Sécurité Numérique",
-    // "Machine Learning Enthusiast",
+    "Développeur FullStack",
     "Analyste de données"
   ];
   const typedEl = document.querySelector(".typed-role");
